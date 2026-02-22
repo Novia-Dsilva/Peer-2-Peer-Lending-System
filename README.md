@@ -52,8 +52,9 @@ The platform was designed around these business rules:
 The Enhanced Entity-Relationship diagram models the complete P2P lending ecosystem with 16+ entities and their cardinality constraints:
 
 <p align="center">
-  <img src="images/er_diagram.png" alt="ER Diagram" width="850"/>
+  <img src="IMAGES/er_diagram.png" alt="ER Diagram" width="850"/>
 </p>
+
 
 Key relationships include the User → Borrower/Lender specialization hierarchy, the central Loan Application entity connecting borrowers and lenders, and supporting entities for disputes, transactions, collateral, audit logs, and startup ideas.
 
